@@ -3,7 +3,7 @@
 	/**
 	* helps streamline the query-making process.
 	* uses passed in config file to set database specifics/credentials.
-	* example json can be found at: http://alternateassessments.net/projects/accounts/example_config.json
+	* example json: example_config.json
 	*/
 	class QueryHelper {
 	
