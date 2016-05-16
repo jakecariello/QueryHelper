@@ -3,7 +3,8 @@
 /*
 
 Author: Jake Cariello
-Date: 4/30/16
+Date(s): 	4/30/16
+	5/15/16
 Purpose:	
 	
 This class helps streamline the query-making process. It is constructed with
