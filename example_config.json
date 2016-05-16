@@ -1,8 +1,8 @@
 {
 	"database": {
-		"host": "url",
-		"username": "un",
-		"password": "ps",
-		"name": "name"
+		"host": "URL_HERE",
+		"username": "USERNAME_HERE",
+		"password": "PASSWORD_HERE",
+		"name": "DATABASE_NAME_HERE"
 	}	
 }
